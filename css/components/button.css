@@ -1,0 +1,14 @@
+.button-oss {
+  padding: 8px 20px;
+  color: white;
+  border-color: 2px solid white;
+  background-color: rgb(193, 2, 48);
+  border-radius: 4px;
+  font-weight: bolder;
+  transition: 0.3s;
+}
+
+.button-oss:hover {
+  background-color: rgb(157, 2, 41);
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+}
