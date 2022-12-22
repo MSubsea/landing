@@ -1,8 +1,9 @@
 .banner {
   margin: 0;
-  height: 200px;
+  height: 100px;
   object-fit: cover;
   /*background-color: lightgray; */
+  display: flex;
   justify-content: center;
   align-items: center;
 }
