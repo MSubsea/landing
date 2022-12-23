@@ -1,0 +1,6 @@
+.search-form {
+    padding: 8px;
+    margin: 8px;
+    border: 1px double rgba(0,0,0, 0.7);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}

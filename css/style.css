@@ -10,6 +10,7 @@
 @import url(components/container.css);
 @import url(components/cards.css);
 @import url(components/footer.css);
+@import url(components/searchform.css);
 
 html {
   margin: 0;
@@ -19,6 +20,7 @@ html {
 body {
   margin: 0px;
   font-family: "Open Sans";
+  min-height: 370px;
 }
 
 h1, h2, h3, h4 {
